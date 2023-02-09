@@ -7,6 +7,7 @@ function display(msg) {
 
 function showConfirm(callback) {
     // You code here
+    alert('confirm')
 }
 
 // ข้อ 2.2
